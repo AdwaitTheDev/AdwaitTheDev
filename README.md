@@ -8,7 +8,7 @@
 - 🤔 Pronouns: He/Him 👦
 - ⚡ Fun fact: I own a YouTube channel with 2.99k subscribers!
 
-a href="https://www.youtube.com/c/CHOK1NGBOMBARDI3R">
+<a href="https://www.youtube.com/c/CHOK1NGBOMBARDI3R">
   <img align="left" alt="Youtube" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
   
 <a href="https://open.spotify.com/user/svsgp66c6wikzf3u08peke9oy">
