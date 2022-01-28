@@ -6,7 +6,7 @@
 - 👨‍🎓 Currently studying in Class 10th.
 - 🎵 I like to listen to Pop Music.
 - 🤔 Pronouns: He/Him 👦
-- ⚡ Fun fact: I own a YouTube channel with 2.99k subscribers!
+
 
 <a href="https://www.youtube.com/c/CHOK1NGBOMBARDI3R">
   <img align="left" alt="Youtube" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
