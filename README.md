@@ -15,4 +15,6 @@
   <img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=AdwaitTheDev&color=brightgreen&label=Profile-Visits&width=26px)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaitTheDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdwaitTheDev)](https://github.com/anuraghazra/github-readme-stats)
 </a>
