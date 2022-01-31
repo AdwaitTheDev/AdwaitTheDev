@@ -12,6 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaitTheDev)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdwaitTheDev)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 <a href="https://www.youtube.com/c/CHOK1NGBOMBARDI3R">
   <img align="left" alt="Youtube" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
