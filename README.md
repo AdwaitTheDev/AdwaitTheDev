@@ -22,6 +22,9 @@
   [![Stats](https://github-readme-stats.vercel.app/api?username=AdwaitTheDev&show_icons=true&theme=midnight-purple)](https://github.com/AdwaitTheDev)
   
   [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaitTheDev&layout=compact&theme=midnight-purple)](https://github.com/AdwaitTheDev)
+   
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=svsgp66c6wikzf3u08peke9oy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+   
 </div>
 
 </a>
