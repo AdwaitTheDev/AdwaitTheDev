@@ -7,12 +7,16 @@
 - 🎵 I like to listen to Pop Music.
 - 🤔 Pronouns: He/Him 👦
 
+<h2 align="center">My Github Statistics</h2>
+
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaitTheDev)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  
+  [![Stats](https://github-readme-stats.vercel.app/api?username=AdwaitTheDev&show_icons=true&theme=midnight-purple)](https://github.com/AdwaitTheDev)
+  
+  [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaitTheDev&layout=compact&theme=midnight-purple)](https://github.com/AdwaitTheDev)
 </div>
+
+
 
 <a href="https://www.youtube.com/c/CHOK1NGBOMBARDI3R">
   <img align="left" alt="Youtube" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
