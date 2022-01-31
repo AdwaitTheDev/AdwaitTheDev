@@ -7,6 +7,14 @@
 - 🎵 I like to listen to Pop Music.
 - 🤔 Pronouns: He/Him 👦
 
+<a href="https://www.youtube.com/c/CHOK1NGBOMBARDI3R">
+  <img align="left" alt="Youtube" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  
+<a href="https://open.spotify.com/user/svsgp66c6wikzf3u08peke9oy">
+  <img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+
+![Profile Visits](https://komarev.com/ghpvc/?username=AdwaitTheDev&color=brightgreen&label=Profile-Visits&width=26px)
+
 <h2 align="center">My Github Statistics</h2>
 
 <div align="center">
@@ -15,15 +23,5 @@
   
   [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaitTheDev&layout=compact&theme=midnight-purple)](https://github.com/AdwaitTheDev)
 </div>
-
-
-
-<a href="https://www.youtube.com/c/CHOK1NGBOMBARDI3R">
-  <img align="left" alt="Youtube" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-  
-<a href="https://open.spotify.com/user/svsgp66c6wikzf3u08peke9oy">
-  <img align="left" alt="Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-
-![Profile Visits](https://komarev.com/ghpvc/?username=AdwaitTheDev&color=brightgreen&label=Profile-Visits&width=26px)
 
 </a>
