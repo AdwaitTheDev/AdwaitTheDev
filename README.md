@@ -2,7 +2,6 @@
 
 ## <img src="https://cdn.discordapp.com/emojis/825569379042459698.gif?v=1" width="30px"> About Myself:
    
-- 💻 I am currently learning ```Python```
 - 👨‍🎓 Currently studying in Class 10th.
 - 🎵 I like to listen to Pop Music.
 - 🤔 Pronouns: He/Him 👦
